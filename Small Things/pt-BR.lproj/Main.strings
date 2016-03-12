@@ -1,0 +1,270 @@
+/* Class = "UITableViewSection"; footerTitle = "Copyright © L&B Apps"; ObjectID = "1b3-B6-rKu"; */
+"1b3-B6-rKu.footerTitle" = "Copyright © L&B Apps";
+
+/* Class = "UILabel"; text = "Photos"; ObjectID = "2Bh-Vr-EDe"; */
+"2Bh-Vr-EDe.text" = "Fotos";
+
+/* Class = "UITableViewSection"; footerTitle = "All rights reserved"; ObjectID = "6Za-O6-zTS"; */
+"6Za-O6-zTS.footerTitle" = "Todos os direitos reservados";
+
+/* Class = "UITextView"; text = "God and family for making it all capable and for all the support\n\nApp designed and developed by LB Apps \n\nApp designed by Ana Beatriz Cabús\n\nApp developed by Leonardo Rangel\n\nGet to know us more at https://lbapps.wordpress.com and contact us at lbappsco@gmail.com"; ObjectID = "9ra-IW-CrX"; */
+"9ra-IW-CrX.text" = "Deus e família por tornarem tudo possível e por todo apoio
+
+Aplicativo projetado e desenvolvido por LB Apps
+
+Design feito por Ana Beatriz Cabús
+
+Programação feita por Leonardo Rangel
+
+Saiba mais sobre nós no lbapps.wordpress.com e entre em contato pelo lbappsco@gmail.com";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "Afh-tL-z3a"; */
+"Afh-tL-z3a.text" = "Senha";
+
+/* Class = "UITableViewSection"; footerTitle = "Small functions inside your app"; ObjectID = "KvV-jd-853"; */
+"KvV-jd-853.footerTitle" = "Pequenas funções no seu app";
+
+/* Class = "UITableViewSection"; headerTitle = "Small Functions"; ObjectID = "KvV-jd-853"; */
+"KvV-jd-853.headerTitle" = "Pequenas Funções";
+
+/* Class = "UITableViewSection"; headerTitle = "ABOUT"; ObjectID = "N1L-Y2-vcS"; */
+"N1L-Y2-vcS.headerTitle" = "SOBRE";
+
+/* Class = "UIButton"; normalTitle = "Remove Password"; ObjectID = "Nhi-Bh-ILl"; */
+"Nhi-Bh-ILl.normalTitle" = "Remover Senha";
+
+/* Class = "UILabel"; text = "Tutorial"; ObjectID = "OpT-6U-N6c"; */
+"OpT-6U-N6c.text" = "Tutorial";
+
+/* Class = "UITextField"; placeholder = "Person"; ObjectID = "Q8T-Jh-7tW"; */
+"Q8T-Jh-7tW.placeholder" = "Pessoa";
+
+/* Class = "UITextView"; text = "Pop\n\nBSD License\n\nFor Pop software\n\nCopyright (c) 2014, Facebook, Inc. All rights reserved.\n\nRedistribution and use in source and binary forms, with or without modification,\nare permitted provided that the following conditions are met:\n\n * Redistributions of source code must retain the above copyright notice, this\n   list of conditions and the following disclaimer.\n\n * Redistributions in binary form must reproduce the above copyright notice,\n   this list of conditions and the following disclaimer in the documentation\n   and/or other materials provided with the distribution.\n\n * Neither the name Facebook nor the names of its contributors may be used to\n   endorse or promote products derived from this software without specific\n   prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND\nANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED\nWARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE\nDISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR\nANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES\n(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;\nLOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON\nANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT\n(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS\nSOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\n\n-----------------------------\n\nSZTextView\n\nCopyright (c) 2013 glaszig <glaszig@gmail.com>\n\nMIT License\n\nPermission is hereby granted, free of charge, to any person obtaining\na copy of this software and associated documentation files (the\n\"Software\"), to deal in the Software without restriction, including\nwithout limitation the rights to use, copy, modify, merge, publish,\ndistribute, sublicense, and/or sell copies of the Software, and to\npermit persons to whom the Software is furnished to do so, subject to\nthe following conditions:\n\nThe above copyright notice and this permission notice shall be\nincluded in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,\nEXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF\nMERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND\nNONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE\nLIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION\nOF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION\nWITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\n\n-----------------------------\n\nSWRevealViewController\n\nCopyright (c) 2013 Joan Lluch <joan.lluch@sweetwilliamsl.com>\n \n Permission is hereby granted, free of charge, to any person obtaining a copy\n of this software and associated documentation files (the \"Software\"), to deal\n in the Software without restriction, including without limitation the rights\n to use, copy, modify, merge, publish, distribute, sublicense, and/or sell\n copies of the Software, and to permit persons to whom the Software is furnished\n to do so, subject to the following conditions:\n \n The above copyright notice and this permission notice shall be included in all\n copies or substantial portions of the Software.\n \n THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\n IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\n FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\n AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\n LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\n OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\n THE SOFTWARE.\n\n Early code inspired on a similar class by Philip Kluz (Philip.Kluz@zuui.org)\n\n-----------------------------\n\nABPadLockScreen\n\nCopyright (c) 2014 Aron Bury - http://www.aronbury.com\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.\n\n-----------------------------\n\nDNTutorial\n\nCopyright (c) 2014 Daniel Niemeyer <danieldn94@gmail.com>\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.\n\n----------------------------\n\nYCTutorialBox\n\nThe MIT License (MIT)\n\nCopyright (c) 2014 Fabio Knoedt\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."; ObjectID = "SmQ-Rd-ZbB"; */
+"SmQ-Rd-ZbB.text" = "Pop
+
+BSD License
+
+For Pop software
+
+Copyright (c) 2014, Facebook, Inc. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification,
+are permitted provided that the following conditions are met:
+
+ * Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+ * Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+ * Neither the name Facebook nor the names of its contributors may be used to
+   endorse or promote products derived from this software without specific
+   prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR
+ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
+ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+-----------------------------
+
+SZTextView
+
+Copyright (c) 2013 glaszig <glaszig@gmail.com>
+
+MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+\"Software\"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+-----------------------------
+
+SWRevealViewController
+
+Copyright (c) 2013 Joan Lluch <joan.lluch@sweetwilliamsl.com>
+ 
+ Permission is hereby granted, free of charge, to any person obtaining a copy
+ of this software and associated documentation files (the \"Software\"), to deal
+ in the Software without restriction, including without limitation the rights
+ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ copies of the Software, and to permit persons to whom the Software is furnished
+ to do so, subject to the following conditions:
+ 
+ The above copyright notice and this permission notice shall be included in all
+ copies or substantial portions of the Software.
+ 
+ THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ THE SOFTWARE.
+
+ Early code inspired on a similar class by Philip Kluz (Philip.Kluz@zuui.org)
+
+-----------------------------
+
+ABPadLockScreen
+
+Copyright (c) 2014 Aron Bury - http://www.aronbury.com
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the \"Software\"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+-----------------------------
+
+DNTutorial
+
+Copyright (c) 2014 Daniel Niemeyer <danieldn94@gmail.com>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the \"Software\"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+----------------------------
+
+YCTutorialBox
+
+The MIT License (MIT)
+
+Copyright (c) 2014 Fabio Knoedt
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the \"Software\"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.";
+
+/* Class = "UINavigationItem"; title = "New Small Thing"; ObjectID = "Sye-o3-gBl"; */
+"Sye-o3-gBl.title" = "Novo Small Thing";
+
+/* Class = "UITextView"; text = "Small Things is an app to enhance gratitude and help you keep track of the things you are happy about. The app's goal is to have you keeping track of the tiniest things that made your heart grow warm and happy. \n\nBeing grateful can bring a lot of benefits such as:\n\n• Noticing the good in the world;\n• Boosting feelings of happiness, joy, pleasure, enthusiasm;\n• Reducing anxitety;\n\nAnd the list goes on for a while, for more information on its benefits, check the studies made by expert on gratitude Robert Emmons below\n\nhttp://greatergood.berkeley.edu/topic/gratitude/definition\n\nGratitude is not involuntary, it's a choice we must make everyday.\n\n"; ObjectID = "UNC-Za-PRi"; */
+"UNC-Za-PRi.text" = "Small Things é um aplicativo para melhorar a gratidão e ajudar a observar todas as coisas que te fazem feliz. O objetivo é te auxiliar a observar as menores coisas que fazem seu coração mais alegre.
+
+Ser grato pode trazer muitos benefícios como:
+
+• Notar o bem no mundo;
+• Aumentar sentimento de felicidade, alegria, prazer, entusiasmo;
+• Reduzir ansiedade;
+
+E a lista continua, para mais informações sobre os benefícios da gratidão, checar os estudos feitos pelo especialista no assunto, Robert Emmons, abaixo
+
+greatergood.berkeley.edu/topic/gratitude/definition
+
+Gratidão não é involuntário, é uma escolha que fazemos diariamente.
+
+";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Wre-kz-NTN"; */
+"Wre-kz-NTN.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "ZG1-p0-EtC"; */
+"ZG1-p0-EtC.text" = "Início";
+
+/* Class = "UILabel"; text = "What was your first school name ?"; ObjectID = "axp-Os-SuF"; */
+"axp-Os-SuF.text" = "Nome da sua primeira escola";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bTk-7w-i5M"; */
+"bTk-7w-i5M.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Behind the app"; ObjectID = "bb2-8o-jli"; */
+"bb2-8o-jli.text" = "Por trás do app";
+
+/* Class = "UIButton"; normalTitle = "Libraries Used"; ObjectID = "d0x-2o-81u"; */
+"d0x-2o-81u.normalTitle" = "Bibliotecas Usadas";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "deX-XK-yhO"; */
+"deX-XK-yhO.text" = "Label";
+
+/* Class = "UITableViewSection"; footerTitle = "Small settings to your app"; ObjectID = "eg7-AN-d7O"; */
+"eg7-AN-d7O.footerTitle" = "Pequenas configurações para seu app";
+
+/* Class = "UITableViewSection"; headerTitle = "Small Settings"; ObjectID = "eg7-AN-d7O"; */
+"eg7-AN-d7O.headerTitle" = "Pequenas Configurações";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fkb-x3-Elm"; */
+"fkb-x3-Elm.text" = "Label";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "jun-yM-Mt9"; */
+"jun-yM-Mt9.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UIButton"; normalTitle = "Set up password"; ObjectID = "oLx-Qj-zfs"; */
+"oLx-Qj-zfs.normalTitle" = "Configurar senha";
+
+/* Class = "UINavigationItem"; title = "Small Things"; ObjectID = "oQI-UZ-lzC"; */
+"oQI-UZ-lzC.title" = "Small Things";
+
+/* Class = "UITextField"; placeholder = "Title"; ObjectID = "qbQ-SE-UAb"; */
+"qbQ-SE-UAb.placeholder" = "Título";
+
+/* Class = "UINavigationItem"; title = "New Small Text"; ObjectID = "t06-BU-8PV"; */
+"t06-BU-8PV.title" = "Novo Pequeno Texto";
+
+/* Class = "UILabel"; text = "App Credits"; ObjectID = "waa-Lm-xVk"; */
+"waa-Lm-xVk.text" = "Créditos";
+

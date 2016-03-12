@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="8195" systemVersion="14F27" minimumToolsVersion="Automatic">
+    <entity name="Person" representedClassName="Person" syncable="YES">
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="persondate" optional="YES" attributeType="Date" syncable="YES"/>
+        <relationship name="smallthing" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="SmallThing" inverseName="person" inverseEntity="SmallThing" syncable="YES"/>
+    </entity>
+    <entity name="SmallThing" representedClassName="SmallThing" syncable="YES">
+        <attribute name="smallaudio" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="smalldate" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="smallphoto" optional="YES" attributeType="Binary" allowsExternalBinaryDataStorage="YES" syncable="YES"/>
+        <attribute name="smalltext" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="title" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="person" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Person" inverseName="smallthing" inverseEntity="Person" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Person" positionX="178" positionY="9" width="128" height="90"/>
+        <element name="SmallThing" positionX="-63" positionY="-18" width="128" height="135"/>
+    </elements>
+</model>

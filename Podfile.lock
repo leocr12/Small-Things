@@ -1,0 +1,28 @@
+PODS:
+  - ABPadLockScreen (3.3.0)
+  - DNTutorial (0.1.8)
+  - FXBlurView (1.6.4)
+  - pop (1.0.7)
+  - SWRevealViewController (2.3.0)
+  - SZTextView (1.2.1)
+  - YCTutorialBox (1.0.9):
+    - FXBlurView
+
+DEPENDENCIES:
+  - ABPadLockScreen (~> 3.3.0)
+  - DNTutorial
+  - pop (~> 1.0)
+  - SWRevealViewController (~> 2.3.0)
+  - SZTextView (~> 1.2.1)
+  - YCTutorialBox
+
+SPEC CHECKSUMS:
+  ABPadLockScreen: 7172ae3562258008eb920f5085c23446958c1b39
+  DNTutorial: 15f34fc489491af3def81ec54e40da51eb8f7a6f
+  FXBlurView: db786c2561cb49a09ae98407f52460096ab8a44f
+  pop: 628ffc631644601567ee8bfaaaea493ebd7d0923
+  SWRevealViewController: 6d3fd97f70112fd7cef9de14df4260eacce4c63a
+  SZTextView: 906df45afd3c1b24fc5252088d5ef8061513c238
+  YCTutorialBox: acac7309db72b55791f624ba0786938e19341832
+
+COCOAPODS: 0.39.0
